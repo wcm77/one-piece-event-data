@@ -1,1 +1,932 @@
-
+{
+    "https://en.onepiece-cardgame.com/events/Finals-2026s2-lcq.html": {
+        "title": "Tournament Championship 26-27 S2 Last Chance Qualifier Event Period: January 2027 Regulation: Standard Seize your last chance to advance to the regional finals!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/Finals-2026s2-lcq.html"
+    },
+    "https://en.onepiece-cardgame.com/events/26-27_Finals_Season_2.html": {
+        "title": "Tournament Championship 26-27 Finals Season 2 Event Period: January 2027 Regulation: Standard The Championship 26–27 Finals crown each region’s Card Game Pirate King and determine who advances to the World Championship 26–27 in Japan.",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/26-27_Finals_Season_2.html"
+    },
+    "https://en.onepiece-cardgame.com/events/Finals-2026s2-side.html": {
+        "title": "Tournament Championship 26-27 Finals Season 2 Side Event Matching Battle Event Period: December-January 2026 Regulation: Standard Earn points in these events and then exchange them for a prize of your choice!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/Finals-2026s2-side.html"
+    },
+    "https://en.onepiece-cardgame.com/events/regional-season2-26-27.html": {
+        "title": "Tournament Championship 26-27 Regionals Season 2 Event Period: August 2026 onwards Regulation: Standard Championship Regionals are battle events to decide the No.1 player in the region.",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/regional-season2-26-27.html"
+    },
+    "https://en.onepiece-cardgame.com/events/regional-season2-side.html": {
+        "title": "Tournament Championship 26-27 Regionals Season 2 Side Event Prize Wall Event Period: August 2026 onwards Regulation: Standard Earn points in these events and then exchange them for a prize of your choice!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/regional-season2-side.html"
+    },
+    "https://en.onepiece-cardgame.com/events/storecs_october.html": {
+        "title": "Tournament CS26-27 Store Championship October (Season 2) Event Period: August 2026 onwards Regulation: Standard Championship Regionals are battle events to decide the No.1 player in the region.",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/storecs_october.html"
+    },
+    "https://en.onepiece-cardgame.com/events/bcgfest26-27-london.html": {
+        "title": "OFFICIAL EVENTS Tournament BANDAI CARD GAMES Fest 26-27 in LONDON​ Event Period: January 15-17, 2027​ BANDAI CARD GAMES titles are gathered in LONDON​!​",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/bcgfest26-27-london.html"
+    },
+    "https://en.onepiece-cardgame.com/events/bcgfest25-26-orlando.html": {
+        "title": "OFFICIAL EVENTS Tournament BANDAI CARD GAMES Fest 26-27 in ORLANDO​ Event Period: January 7-10, 2027​ BANDAI CARD GAMES titles are gathered in ORLANDO!​",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/bcgfest25-26-orlando.html"
+    },
+    "https://en.onepiece-cardgame.com/events/treasure-cup-dec-2026.html": {
+        "title": "Tournament Treasure Cup December 2026 Event Period: December 2026 onwards Regulation: Standard The ONE PIECE CARD GAME Treasure Cup is a year-round tournament!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/treasure-cup-dec-2026.html"
+    },
+    "https://en.onepiece-cardgame.com/events/bcgfest26-27.html": {
+        "title": "Tournament BANDAI CARD GAMES Fest 26-27 Event Period: October 2026 – Enjoy Bandai’s trading card game titles and connecting with fellow fans at “BANDAI CARD GAMES Fest”, a card game event featuring BANDAI CARD GAMES’ titles!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/bcgfest26-27.html"
+    },
+    "https://en.onepiece-cardgame.com/events/extra-grand-battle-l-2026.html": {
+        "title": "OFFICIAL EVENTS Tournament Large Scale Extra Grand Battle 2026 Event Period: October 2026 onwards Regulation: Extra In this format, all cards released to date are legal for play, except for a limited number of banned cards.",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/extra-grand-battle-l-2026.html"
+    },
+    "https://en.onepiece-cardgame.com/events/treasure-cup-august-2026.html": {
+        "title": "Tournament Treasure Cup August 2026 Event Period: August 2026 onwards Regulation: Standard The ONE PIECE CARD GAME Treasure Cup is a year-round tournament!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/treasure-cup-august-2026.html"
+    },
+    "https://en.onepiece-cardgame.com/events/flameflame_Coliseum.html": {
+        "title": "Tournament Flame-Flame Fruit Coliseum Event Period: September 2026 onwards Regulation: Standard Fight your way to the top and win the one and only Flame-Flame Fruit!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/flameflame_Coliseum.html"
+    },
+    "https://en.onepiece-cardgame.com/events/02_573.html": {
+        "title": "Tournament ONE PIECE CARD GAME NIKE Collaboration Tournament Event Period: February 1 – April 30, 2027 Regulation: Standard Lace up!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/02_573.html"
+    },
+    "https://en.onepiece-cardgame.com/events/store-tournament-st37-38.html": {
+        "title": "Regularly Held Tournament ST-37 & ST-38 Release Event Event Period: December 18, 2026 – January 10, 2027 Regulation: Standard Join in to commemorate the release of the latest two Starter Decks!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/store-tournament-st37-38.html"
+    },
+    "https://en.onepiece-cardgame.com/events/02_553.html": {
+        "title": "Tournament Store Treasure Cup 2026 December Event Period: December 4 – 20, 2026​ Regulation: Standard Store Treasure Cups bring the excitement and prizes of Treasure Cups to selected local game stores.",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/02_553.html"
+    },
+    "https://en.onepiece-cardgame.com/events/store-tournament-op18.html": {
+        "title": "Regularly Held Tournament 4th Anniversary Event (OP-18 Release Event) Event Period: November 20 – December 17, 2026 Regulation: Standard Celebrate ONE PIECE Card Game’s 4th  Anniversary and the release of Booster Pack - THE DOMINANCE OF GOD- [OP-18] at a local game store!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/store-tournament-op18.html"
+    },
+    "https://en.onepiece-cardgame.com/events/heroines-battle-vol2.html": {
+        "title": "Tournament Heroines Battle Vol.2 Event Period: November 6 – December 6, 2026 Regulation: Standard Let's battle using Heroines Leader cards only!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/heroines-battle-vol2.html"
+    },
+    "https://en.onepiece-cardgame.com/events/02_452.html": {
+        "title": "Tournament Store Tournament 2026 Vol. 4 Event Period: October 1 – December 31, 2026 Regulation: Standard Official Store Tournaments Continue!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/02_452.html"
+    },
+    "https://en.onepiece-cardgame.com/events/malltour2026.html": {
+        "title": "Convention Event Demo ONE PIECE CARD GAME MALL TOUR 2026 Event Period: Starting August 13, 2026​ Find a place nearest from you and join the Mall Tour!",
+        "source": "Bandai Official",
+        "url": "https://en.onepiece-cardgame.com/events/malltour2026.html"
+    },
+    "https://onepiece.gg/tournaments/": {
+        "title": "Tournaments",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/tournaments/"
+    },
+    "https://onepiece.gg/store-treasure-cup-2026-december/": {
+        "title": "Store Treasure Cup 2026 December",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/store-treasure-cup-2026-december/"
+    },
+    "https://onepiece.gg/championship-26-27-finals-season-2-side-event-matching-battle/": {
+        "title": "Championship 26-27 Finals Season 2 Side Event Matching Battle",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/championship-26-27-finals-season-2-side-event-matching-battle/"
+    },
+    "https://onepiece.gg/4th-anniversary-event-op-18-release-event/": {
+        "title": "4th Anniversary Event (OP-18 Release Event)",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/4th-anniversary-event-op-18-release-event/"
+    },
+    "https://onepiece.gg/championship-26-27-s2-last-chance-qualifier/": {
+        "title": "Championship 26-27 S2 Last Chance Qualifier",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/championship-26-27-s2-last-chance-qualifier/"
+    },
+    "https://onepiece.gg/treasure-cup-december-2026/": {
+        "title": "Treasure Cup December 2026",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/treasure-cup-december-2026/"
+    },
+    "https://onepiece.gg/store-tournament-2026-vol-4/": {
+        "title": "Store Tournament 2026 Vol. 4",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/store-tournament-2026-vol-4/"
+    },
+    "https://onepiece.gg/championship-26-27-s1-last-chance-qualifier/": {
+        "title": "Championship 26-27 S1 Last Chance Qualifier",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/championship-26-27-s1-last-chance-qualifier/"
+    },
+    "https://onepiece.gg/championship-26-27-finals-season-2/": {
+        "title": "Championship 26-27 Finals Season 2",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/championship-26-27-finals-season-2/"
+    },
+    "https://onepiece.gg/championship-26-27-finals-season-1-side-event-prize-wall/": {
+        "title": "Championship 26-27 Finals Season 1 Side Event Prize Wall",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/championship-26-27-finals-season-1-side-event-prize-wall/"
+    },
+    "https://onepiece.gg/championship-26-27-regionals-season-2/": {
+        "title": "Championship 26-27 Regionals Season 2",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/championship-26-27-regionals-season-2/"
+    },
+    "https://onepiece.gg/treasure-cup-august-2026/": {
+        "title": "Treasure Cup August 2026",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/treasure-cup-august-2026/"
+    },
+    "https://onepiece.gg/4th-anniversary-event-op-17-release-event/": {
+        "title": "4th Anniversary Event (OP-17 Release Event)",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/4th-anniversary-event-op-17-release-event/"
+    },
+    "https://onepiece.gg/championship-26-27-regionals-season-2-side-event-prize-wall/": {
+        "title": "Championship 26-27 Regionals Season 2 Side Event Prize Wall",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/championship-26-27-regionals-season-2-side-event-prize-wall/"
+    },
+    "https://onepiece.gg/cs26-27-store-championship-october-season-2/": {
+        "title": "CS26-27 Store Championship October (Season 2)",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/cs26-27-store-championship-october-season-2/"
+    },
+    "https://onepiece.gg/store-tournament-2026-vol-3/": {
+        "title": "Store Tournament 2026 Vol. 3",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/store-tournament-2026-vol-3/"
+    },
+    "https://www.mainphase.de/events/onepiece-ff88dd03/": {
+        "title": "OP 13 NOV FR.                 ·                 17:30 Uhr FR.                 ·                 17:30 Uhr OP Store Tournament Event Cardinvestor Düsseldorf Sammelkarten, Anime & Disney, Pokemon, Yugioh, One Piece ·             Düsseldorf · 5 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-ff88dd03/"
+    },
+    "https://www.mainphase.de/events/onepiece-31783f59/": {
+        "title": "OP 13 NOV FR.                 ·                 19:00 Uhr FR.                 ·                 19:00 Uhr Heroines Battle Vol.2 [EB-05] POYU - Anime & Cards ·             Ratingen · 11.5 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-31783f59/"
+    },
+    "https://www.mainphase.de/events/onepiece-f4026406/": {
+        "title": "OP 13 NOV FR.                 ·                 19:00 Uhr FR.                 ·                 19:00 Uhr OP Store Tournament Event Heroes Inn ·             Mönchengladbach · 19.7 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-f4026406/"
+    },
+    "https://www.mainphase.de/events/onepiece-222b4560/": {
+        "title": "OP 13 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr OP Store Tournament Event CardInvestor Mönchengladbach Sammelkarten, Manga & Anime Pokemon, Yugioh, One Piece ·             Mönchengladbach · 19.8 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-222b4560/"
+    },
+    "https://www.mainphase.de/events/onepiece-e0a6b632/": {
+        "title": "OP 13 NOV FR.                 ·                 17:30 Uhr FR.                 ·                 17:30 Uhr OP Store Tournament Event TCG Shop Moers ·             Moers · 24.4 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-e0a6b632/"
+    },
+    "https://www.mainphase.de/events/onepiece-8cc62b87/": {
+        "title": "OP 13 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr OP Store Tournament Event Junksplayground GmbH | TCG-Store ·             Moers · 25.8 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-8cc62b87/"
+    },
+    "https://www.mainphase.de/events/onepiece-81743bc7/": {
+        "title": "OP 13 NOV FR.                 ·                 17:15 Uhr FR.                 ·                 17:15 Uhr Heroines Battle Vol.2 [EB-05] Kartenstube ·             Pulheim · 27 km OP Store Tournament 40 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-81743bc7/"
+    },
+    "https://www.mainphase.de/events/onepiece-2098bbb2/": {
+        "title": "OP 13 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr OP Store Tournament Event JB Spielwaren ·             Oberhausen · 27.9 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-2098bbb2/"
+    },
+    "https://www.mainphase.de/events/onepiece-c5c18e14/": {
+        "title": "OP 13 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr Heroines Battle Vol.2 [EB-05] Olli-Baba ·             Essen · 31.6 km OP Store Tournament 15 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-c5c18e14/"
+    },
+    "https://www.mainphase.de/events/onepiece-170940dc/": {
+        "title": "OP 13 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr OP Store Tournament Event Olli-Baba ·             Essen · 31.6 km OP Store Tournament 6 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-170940dc/"
+    },
+    "https://www.mainphase.de/events/onepiece-d013f0d7/": {
+        "title": "OP 13 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr OP Store Tournament Event White Rabbit - Community Game Store (Essen) ·             Essen · 32.3 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-d013f0d7/"
+    },
+    "https://www.mainphase.de/events/onepiece-6771b285/": {
+        "title": "OP 13 NOV FR.                 ·                 12:00 Uhr FR.                 ·                 12:00 Uhr OP Store Tournament Event Zuris-Shop ·             Wuppertal · 35.4 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-6771b285/"
+    },
+    "https://www.mainphase.de/events/onepiece-8fc5aa10/": {
+        "title": "OP 13 NOV FR.                 ·                 19:00 Uhr FR.                 ·                 19:00 Uhr OP Store Tournament Event Zuris-Shop ·             Wuppertal · 35.4 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-8fc5aa10/"
+    },
+    "https://www.mainphase.de/events/onepiece-fed158a6/": {
+        "title": "OP 13 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr OP Store Tournament Event Ghostcards ·             Dinslaken · 36.6 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-fed158a6/"
+    },
+    "https://www.mainphase.de/events/onepiece-86d1db91/": {
+        "title": "OP 13 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr OP Store Tournament Event Epic Card Store – TCG Shop & Turniere Köln Dellbrück ·             Köln · 38 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-86d1db91/"
+    },
+    "https://www.mainphase.de/events/onepiece-1aa211a7/": {
+        "title": "OP 13 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr Heroines Battle Vol.2 [EB-05] Animany - Dein Anime & Manga Fanshop ·             Hürth · 40.9 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-1aa211a7/"
+    },
+    "https://www.mainphase.de/events/onepiece-1ff72fa4/": {
+        "title": "OP 13 NOV FR.                 ·                 16:00 Uhr FR.                 ·                 16:00 Uhr OP Store Tournament Event Frozen Cards GmbH ·             Witten · 48.8 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-1ff72fa4/"
+    },
+    "https://www.mainphase.de/events/onepiece-a98db29d/": {
+        "title": "OP 13 NOV FR.                 ·                 19:00 Uhr FR.                 ·                 19:00 Uhr OP Store Tournament Event Schatzkammer NRW ·             Hagen · 50.8 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-a98db29d/"
+    },
+    "https://www.mainphase.de/events/onepiece-80a3099b/": {
+        "title": "OP 13 NOV FR.                 ·                 20:00 Uhr FR.                 ·                 20:00 Uhr OP Store Tournament Event Nakama Store ·             Hagen · 54.4 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-80a3099b/"
+    },
+    "https://www.mainphase.de/events/onepiece-b80428ee/": {
+        "title": "OP 13 NOV FR.                 ·                 17:30 Uhr FR.                 ·                 17:30 Uhr OP Store Tournament Event Card & Soul ·             Troisdorf · 56 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-b80428ee/"
+    },
+    "https://www.mainphase.de/events/onepiece-6accba56/": {
+        "title": "OP 13 NOV FR.                 ·                 16:00 Uhr FR.                 ·                 16:00 Uhr Heroines Battle Vol.2 [EB-05] Geeksheaven ·             Weilerswist · 58.9 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-6accba56/"
+    },
+    "https://www.mainphase.de/events/onepiece-18a50abe/": {
+        "title": "OP 13 NOV FR. FR. OP Store Tournament Event Just for fun ·             Bonn · 61.7 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-18a50abe/"
+    },
+    "https://www.mainphase.de/events/onepiece-563ba77e/": {
+        "title": "OP 13 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr OP Store Tournament Event Just for fun ·             Bonn · 61.7 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-563ba77e/"
+    },
+    "https://www.mainphase.de/events/onepiece-e78daaa9/": {
+        "title": "OP 13 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr Heroines Battle Vol.2 [EB-05] CapsuleCards ·             Lüdenscheid · 64.4 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-e78daaa9/"
+    },
+    "https://www.mainphase.de/events/onepiece-cbebca91/": {
+        "title": "OP 13 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr Heroines Battle Vol.2 [EB-05] Karten-Lounge ·             Dortmund · 66.1 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-cbebca91/"
+    },
+    "https://www.mainphase.de/events/onepiece-8c4d3a9c/": {
+        "title": "OP 13 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr Pirates Party 2026 Vol.4 Abedsantcgworld ·             Ennepetal · 44.2 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-8c4d3a9c/"
+    },
+    "https://www.mainphase.de/events/onepiece-b0bc043d/": {
+        "title": "OP 14 NOV SA.                 ·                 17:30 Uhr SA.                 ·                 17:30 Uhr OP Store Tournament Event Zauberland Spiele ·             Schalksmühle · 56.7 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-b0bc043d/"
+    },
+    "https://www.mainphase.de/events/onepiece-7de23770/": {
+        "title": "OP 14 NOV SA.                 ·                 11:30 Uhr SA.                 ·                 11:30 Uhr OP Store Tournament Event Cardinvestor Düsseldorf Sammelkarten, Anime & Disney, Pokemon, Yugioh, One Piece ·             Düsseldorf · 5 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-7de23770/"
+    },
+    "https://www.mainphase.de/events/onepiece-bca8006e/": {
+        "title": "OP 14 NOV SA.                 ·                 18:00 Uhr SA.                 ·                 18:00 Uhr OP Store Tournament Event POYU - Anime & Cards ·             Ratingen · 11.5 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-bca8006e/"
+    },
+    "https://www.mainphase.de/events/onepiece-fa414bf5/": {
+        "title": "OP 14 NOV SA.                 ·                 13:00 Uhr SA.                 ·                 13:00 Uhr Pirates Party 2026 Vol.4 TCGBrothers ·             Krefeld · 15 km OP Store Tournament 9 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-fa414bf5/"
+    },
+    "https://www.mainphase.de/events/onepiece-e18ca279/": {
+        "title": "OP 14 NOV SA.                 ·                 13:00 Uhr SA.                 ·                 13:00 Uhr OP Store Tournament Event Heroes Inn ·             Mönchengladbach · 19.7 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-e18ca279/"
+    },
+    "https://www.mainphase.de/events/onepiece-69a1a3ab/": {
+        "title": "OP 14 NOV SA.                 ·                 16:00 Uhr SA.                 ·                 16:00 Uhr OP Store Tournament Event CardInvestor Mönchengladbach Sammelkarten, Manga & Anime Pokemon, Yugioh, One Piece ·             Mönchengladbach · 19.8 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-69a1a3ab/"
+    },
+    "https://www.mainphase.de/events/onepiece-61454028/": {
+        "title": "OP 14 NOV SA.                 ·                 16:00 Uhr SA.                 ·                 16:00 Uhr OP Store Tournament Event Topmini Tabletop Games & more ·             Solingen · 23.3 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-61454028/"
+    },
+    "https://www.mainphase.de/events/onepiece-0f18f499/": {
+        "title": "OP 14 NOV SA.                 ·                 10:15 Uhr SA.                 ·                 10:15 Uhr OP Store Tournament Event Kartenstube ·             Pulheim · 27 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-0f18f499/"
+    },
+    "https://www.mainphase.de/events/onepiece-05576612/": {
+        "title": "OP 14 NOV SA.                 ·                 13:15 Uhr SA.                 ·                 13:15 Uhr Pirates Party 2026 Vol.4 Kartenstube ·             Pulheim · 27 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-05576612/"
+    },
+    "https://www.mainphase.de/events/onepiece-13bb64c8/": {
+        "title": "OP 14 NOV SA.                 ·                 16:30 Uhr SA.                 ·                 16:30 Uhr OP Store Tournament Event Phoenix Inn ·             Oberhausen · 27.7 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-13bb64c8/"
+    },
+    "https://www.mainphase.de/events/onepiece-62db3687/": {
+        "title": "OP 14 NOV SA.                 ·                 18:30 Uhr SA.                 ·                 18:30 Uhr Heroines Battle Vol.2 [EB-05] Phoenix Inn ·             Oberhausen · 27.7 km OP Store Tournament 15 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-62db3687/"
+    },
+    "https://www.mainphase.de/events/onepiece-92744b1d/": {
+        "title": "OP 14 NOV SA.                 ·                 16:00 Uhr SA.                 ·                 16:00 Uhr OP Store Tournament Event WestBlueTCG ·             Leverkusen · 29.3 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-92744b1d/"
+    },
+    "https://www.mainphase.de/events/onepiece-76914e2a/": {
+        "title": "OP 14 NOV SA.                 ·                 13:00 Uhr SA.                 ·                 13:00 Uhr OP Store Tournament Event Kartenbasis - Dein Sammelkarten & Darts Store ·             Oberhausen · 32.6 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-76914e2a/"
+    },
+    "https://www.mainphase.de/events/onepiece-80b4de6d/": {
+        "title": "OP 14 NOV SA.                 ·                 12:00 Uhr SA.                 ·                 12:00 Uhr Pirates Party 2026 Vol.4 Ghostcards ·             Dinslaken · 36.6 km OP Store Tournament 15 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-80b4de6d/"
+    },
+    "https://www.mainphase.de/events/onepiece-68dd3203/": {
+        "title": "OP 14 NOV SA.                 ·                 15:00 Uhr SA.                 ·                 15:00 Uhr OP Store Tournament Event PokeSynek ·             Bochum · 37.7 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-68dd3203/"
+    },
+    "https://www.mainphase.de/events/onepiece-3429cbcc/": {
+        "title": "OP 14 NOV SA.                 ·                 13:00 Uhr SA.                 ·                 13:00 Uhr OP Store Tournament Event Epic Card Store – TCG Shop & Turniere Köln Dellbrück ·             Köln · 38 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-3429cbcc/"
+    },
+    "https://www.mainphase.de/events/onepiece-d8ca53a5/": {
+        "title": "OP 14 NOV SA.                 ·                 13:00 Uhr SA.                 ·                 13:00 Uhr Pirates Party 2026 Vol.4 Heroes Stash ·             Recklinghausen · 53.7 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-d8ca53a5/"
+    },
+    "https://www.mainphase.de/events/onepiece-854ff482/": {
+        "title": "OP 14 NOV SA.                 ·                 14:00 Uhr SA.                 ·                 14:00 Uhr OP Store Tournament Event MoCards - Der Markenshop ·             Halver · 55.1 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-854ff482/"
+    },
+    "https://www.mainphase.de/events/onepiece-404e3f92/": {
+        "title": "OP 14 NOV SA. SA. OP Store Tournament Event Geeksheaven ·             Weilerswist · 58.9 km OP Store Tournament 12 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-404e3f92/"
+    },
+    "https://www.mainphase.de/events/onepiece-0de7078c/": {
+        "title": "OP 14 NOV SA.                 ·                 11:00 Uhr SA.                 ·                 11:00 Uhr OP Store Tournament Event TCG-Siegburg ·             Siegburg · 59.1 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-0de7078c/"
+    },
+    "https://www.mainphase.de/events/onepiece-17cc0061/": {
+        "title": "OP 14 NOV SA.                 ·                 17:00 Uhr SA.                 ·                 17:00 Uhr OP Store Tournament Event Animany - Dein Anime, Manga und TCG Paradies! ·             Bonn · 61.7 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-17cc0061/"
+    },
+    "https://www.mainphase.de/events/onepiece-f69808e6/": {
+        "title": "OP 14 NOV SA.                 ·                 12:30 Uhr SA.                 ·                 12:30 Uhr OP Store Tournament Event Geek Haven ·             Bonn · 61.9 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-f69808e6/"
+    },
+    "https://www.mainphase.de/events/onepiece-1240175e/": {
+        "title": "OP 14 NOV SA.                 ·                 17:00 Uhr SA.                 ·                 17:00 Uhr Heroines Battle Vol.2 [EB-05] Kame Haus ·             Ludenscheid · 63.8 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-1240175e/"
+    },
+    "https://www.mainphase.de/events/onepiece-41582cce/": {
+        "title": "OP 14 NOV SA.                 ·                 18:00 Uhr SA.                 ·                 18:00 Uhr Pirates Party 2026 Vol.4 Karten-Lounge ·             Dortmund · 66.1 km OP Store Tournament 6 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-41582cce/"
+    },
+    "https://www.mainphase.de/events/onepiece-c45ef3ce/": {
+        "title": "OP 14 NOV SA.                 ·                 20:30 Uhr SA.                 ·                 20:30 Uhr OP Store Tournament Event Karten-Lounge ·             Dortmund · 66.1 km OP Store Tournament 6 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-c45ef3ce/"
+    },
+    "https://www.mainphase.de/events/onepiece-91975e9b/": {
+        "title": "OP 14 NOV SA.                 ·                 12:00 Uhr SA.                 ·                 12:00 Uhr OP Store Tournament Event Trader GmbH ·             Reken · 68.5 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-91975e9b/"
+    },
+    "https://www.mainphase.de/events/onepiece-568409d3/": {
+        "title": "OP 14 NOV SA.                 ·                 11:00 Uhr SA.                 ·                 11:00 Uhr Pirates Party 2026 Vol.4 Playmore Fantasy ·             Kleve · 73.4 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-568409d3/"
+    },
+    "https://www.mainphase.de/events/onepiece-6c427b90/": {
+        "title": "OP 14 NOV SA.                 ·                 11:00 Uhr SA.                 ·                 11:00 Uhr Pirates Party 2026 Vol.4 AT Cards ·             Lüdinghausen · 78.2 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-6c427b90/"
+    },
+    "https://www.mainphase.de/events/onepiece-20e5ec40/": {
+        "title": "OP 14 NOV SA.                 ·                 15:00 Uhr SA.                 ·                 15:00 Uhr Heroines Battle Vol.2 [EB-05] Migos Cards ·             Werl · 90.4 km OP Store Tournament 36 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-20e5ec40/"
+    },
+    "https://www.mainphase.de/events/onepiece-a4d7d6ed/": {
+        "title": "OP 14 NOV SA.                 ·                 10:00 Uhr SA.                 ·                 10:00 Uhr Pirates Party 2026 Vol.4 Abedsantcgworld ·             Ennepetal · 44.2 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-a4d7d6ed/"
+    },
+    "https://www.mainphase.de/events/onepiece-520f5c5b/": {
+        "title": "OP 14 NOV SA.                 ·                 12:00 Uhr SA.                 ·                 12:00 Uhr Heroines Battle Vol.2 [EB-05] Jolly Roger Games ·             Bochum · 44.4 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-520f5c5b/"
+    },
+    "https://www.mainphase.de/events/onepiece-4611763f/": {
+        "title": "OP 15 NOV SO.                 ·                 11:00 Uhr SO.                 ·                 11:00 Uhr Heroines Battle Vol.2 [EB-05] Mage Store ·             Düsseldorf · 4.9 km OP Store Tournament 15 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-4611763f/"
+    },
+    "https://www.mainphase.de/events/onepiece-8c762c04/": {
+        "title": "OP 15 NOV SO.                 ·                 14:30 Uhr SO.                 ·                 14:30 Uhr OP Store Tournament Event noHEROES ·             Mönchengladbach · 16.2 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-8c762c04/"
+    },
+    "https://www.mainphase.de/events/onepiece-82343dc0/": {
+        "title": "OP 15 NOV SO.                 ·                 13:00 Uhr SO.                 ·                 13:00 Uhr OP Store Tournament Event Ocean Cards ·             Neuenrade · 74.7 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-82343dc0/"
+    },
+    "https://www.mainphase.de/events/onepiece-7a34f0b7/": {
+        "title": "OP 15 NOV SO.                 ·                 16:00 Uhr SO.                 ·                 16:00 Uhr Pirates Party 2026 Vol.4 Ocean Cards ·             Neuenrade · 74.7 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-7a34f0b7/"
+    },
+    "https://www.mainphase.de/events/onepiece-78044b10/": {
+        "title": "OP 16 NOV MO.                 ·                 19:00 Uhr MO.                 ·                 19:00 Uhr OP Store Tournament Event TCGBrothers ·             Krefeld · 15 km OP Store Tournament 9 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-78044b10/"
+    },
+    "https://www.mainphase.de/events/onepiece-756d42ed/": {
+        "title": "OP 16 NOV MO.                 ·                 18:30 Uhr MO.                 ·                 18:30 Uhr OP Store Tournament Event noHEROES ·             Mönchengladbach · 16.2 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-756d42ed/"
+    },
+    "https://www.mainphase.de/events/onepiece-623dc012/": {
+        "title": "OP 16 NOV MO.                 ·                 17:00 Uhr MO.                 ·                 17:00 Uhr OP Store Tournament Event Comic Planet Duisburg ·             Duisburg · 22.4 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-623dc012/"
+    },
+    "https://www.mainphase.de/events/onepiece-2f39e11d/": {
+        "title": "OP 16 NOV MO.                 ·                 16:00 Uhr MO.                 ·                 16:00 Uhr OP Store Tournament Event Hiveworld - Christopher Ruddat ·             Köln · 37.2 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-2f39e11d/"
+    },
+    "https://www.mainphase.de/events/onepiece-6aebb018/": {
+        "title": "OP 16 NOV MO.                 ·                 17:30 Uhr MO.                 ·                 17:30 Uhr Pirates Party 2026 Vol.4 Epic Card Store – TCG Shop & Turniere Köln Dellbrück ·             Köln · 38 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-6aebb018/"
+    },
+    "https://www.mainphase.de/events/onepiece-093710ff/": {
+        "title": "OP 16 NOV MO.                 ·                 19:00 Uhr MO.                 ·                 19:00 Uhr Pirates Party 2026 Vol.4 Heroes Stash ·             Recklinghausen · 53.7 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-093710ff/"
+    },
+    "https://www.mainphase.de/events/onepiece-af22833d/": {
+        "title": "OP 16 NOV MO.                 ·                 18:00 Uhr MO.                 ·                 18:00 Uhr Pirates Party 2026 Vol.4 Geek Haven ·             Bonn · 61.9 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-af22833d/"
+    },
+    "https://www.mainphase.de/events/onepiece-c61f98ed/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event Brudicards ·             Remscheid · 33.6 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-c61f98ed/"
+    },
+    "https://www.mainphase.de/events/onepiece-42a30f4f/": {
+        "title": "OP 17 NOV DI.                 ·                 17:00 Uhr DI.                 ·                 17:00 Uhr Pirates Party 2026 Vol.4 Zauberland Spiele ·             Schalksmühle · 56.7 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-42a30f4f/"
+    },
+    "https://www.mainphase.de/events/onepiece-621451c4/": {
+        "title": "OP 17 NOV DI.                 ·                 19:30 Uhr DI.                 ·                 19:30 Uhr OP Store Tournament Event Zauberland Spiele ·             Schalksmühle · 56.7 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-621451c4/"
+    },
+    "https://www.mainphase.de/events/onepiece-921f91f3/": {
+        "title": "OP 17 NOV DI. DI. OP Store Tournament Event Drachental Games & Magic ·             Düsseldorf · 4.9 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-921f91f3/"
+    },
+    "https://www.mainphase.de/events/onepiece-08d317b5/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event Mage Store ·             Düsseldorf · 4.9 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-08d317b5/"
+    },
+    "https://www.mainphase.de/events/onepiece-eacb8ef5/": {
+        "title": "OP 17 NOV DI.                 ·                 19:00 Uhr DI.                 ·                 19:00 Uhr OP Store Tournament Event Spielzeit ·             Krefeld · 14.9 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-eacb8ef5/"
+    },
+    "https://www.mainphase.de/events/onepiece-652145f2/": {
+        "title": "OP 17 NOV DI.                 ·                 17:00 Uhr DI.                 ·                 17:00 Uhr OP Store Tournament Event Junksplayground GmbH | TCG-Store ·             Moers · 25.8 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-652145f2/"
+    },
+    "https://www.mainphase.de/events/onepiece-9399804a/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event WestBlueTCG ·             Leverkusen · 29.3 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-9399804a/"
+    },
+    "https://www.mainphase.de/events/onepiece-1be51e31/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event Olli-Baba ·             Essen · 31.6 km OP Store Tournament 6 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-1be51e31/"
+    },
+    "https://www.mainphase.de/events/onepiece-be2ca05b/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event White Rabbit - Community Game Store (Essen) ·             Essen · 32.3 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-be2ca05b/"
+    },
+    "https://www.mainphase.de/events/onepiece-3b245891/": {
+        "title": "OP 17 NOV DI. DI. OP Store Tournament Event Phoboscards ·             Wuppertal · 36.6 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-3b245891/"
+    },
+    "https://www.mainphase.de/events/onepiece-aa68d45c/": {
+        "title": "OP 17 NOV DI.                 ·                 17:30 Uhr DI.                 ·                 17:30 Uhr Pirates Party 2026 Vol.4 Epic Card Store – TCG Shop & Turniere Köln Dellbrück ·             Köln · 38 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-aa68d45c/"
+    },
+    "https://www.mainphase.de/events/onepiece-85e369f2/": {
+        "title": "OP 17 NOV DI.                 ·                 17:30 Uhr DI.                 ·                 17:30 Uhr OP Store Tournament Event Animany - Dein Anime & Manga Fanshop ·             Hürth · 40.9 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-85e369f2/"
+    },
+    "https://www.mainphase.de/events/onepiece-8bb1602d/": {
+        "title": "OP 17 NOV DI.                 ·                 18:30 Uhr DI.                 ·                 18:30 Uhr OP Store Tournament Event Cards Central Gelsenkirchen ·             Gelsenkirchen · 43.8 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-8bb1602d/"
+    },
+    "https://www.mainphase.de/events/onepiece-e83af632/": {
+        "title": "OP 17 NOV DI.                 ·                 16:00 Uhr DI.                 ·                 16:00 Uhr OP Store Tournament Event Frozen Cards ·             Witten · 48.6 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-e83af632/"
+    },
+    "https://www.mainphase.de/events/onepiece-6c8009f7/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event Schatzkammer NRW ·             Hagen · 50.8 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-6c8009f7/"
+    },
+    "https://www.mainphase.de/events/onepiece-79268859/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event Hallicards ·             Overath · 52 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-79268859/"
+    },
+    "https://www.mainphase.de/events/onepiece-bbef7886/": {
+        "title": "OP 17 NOV DI.                 ·                 20:00 Uhr DI.                 ·                 20:00 Uhr OP Store Tournament Event Nakama Store ·             Hagen · 54.4 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-bbef7886/"
+    },
+    "https://www.mainphase.de/events/onepiece-16f4feb4/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event Geek Haven ·             Bonn · 61.9 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-16f4feb4/"
+    },
+    "https://www.mainphase.de/events/onepiece-39f911c5/": {
+        "title": "OP 17 NOV DI.                 ·                 18:00 Uhr DI.                 ·                 18:00 Uhr OP Store Tournament Event Karten-Lounge ·             Dortmund · 66.1 km OP Store Tournament 6 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-39f911c5/"
+    },
+    "https://www.mainphase.de/events/onepiece-4407c7fa/": {
+        "title": "OP 17 NOV DI.                 ·                 17:00 Uhr DI.                 ·                 17:00 Uhr OP Store Tournament Event Shibuya Anime & TCG Store ·             Köln · 37.5 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-4407c7fa/"
+    },
+    "https://www.mainphase.de/events/onepiece-7c758561/": {
+        "title": "OP 17 NOV DI.                 ·                 09:00 Uhr DI.                 ·                 09:00 Uhr Pirates Party 2026 Vol.4 Choppers Castle Games Time TCG Shop ·             Hamm · 88 km OP Store Tournament 30 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-7c758561/"
+    },
+    "https://www.mainphase.de/events/onepiece-2887f43b/": {
+        "title": "OP 18 NOV MI. MI. Pirates Party 2026 Vol.4 Brudicards ·             Remscheid · 33.6 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-2887f43b/"
+    },
+    "https://www.mainphase.de/events/onepiece-8f77ba96/": {
+        "title": "OP 18 NOV MI.                 ·                 18:00 Uhr MI.                 ·                 18:00 Uhr OP Store Tournament Event Mage Store ·             Düsseldorf · 4.9 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-8f77ba96/"
+    },
+    "https://www.mainphase.de/events/onepiece-4f9e7da1/": {
+        "title": "OP 18 NOV MI.                 ·                 19:00 Uhr MI.                 ·                 19:00 Uhr OP Store Tournament Event TCGBrothers ·             Krefeld · 15 km OP Store Tournament 9 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-4f9e7da1/"
+    },
+    "https://www.mainphase.de/events/onepiece-749844e1/": {
+        "title": "OP 18 NOV MI.                 ·                 17:00 Uhr MI.                 ·                 17:00 Uhr Pirates Party 2026 Vol.4 Junksplayground GmbH | TCG-Store ·             Moers · 25.8 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-749844e1/"
+    },
+    "https://www.mainphase.de/events/onepiece-e4f7e50a/": {
+        "title": "OP 18 NOV MI.                 ·                 18:15 Uhr MI.                 ·                 18:15 Uhr OP Store Tournament Event Kartenstube ·             Pulheim · 27 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-e4f7e50a/"
+    },
+    "https://www.mainphase.de/events/onepiece-3ab16386/": {
+        "title": "OP 18 NOV MI.                 ·                 18:00 Uhr MI.                 ·                 18:00 Uhr OP Store Tournament Event Olli-Baba ·             Essen · 31.6 km OP Store Tournament 6 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-3ab16386/"
+    },
+    "https://www.mainphase.de/events/onepiece-8f6b8247/": {
+        "title": "OP 18 NOV MI.                 ·                 17:30 Uhr MI.                 ·                 17:30 Uhr OP Store Tournament Event Kartenbasis - Dein Sammelkarten & Darts Store ·             Oberhausen · 32.6 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-8f6b8247/"
+    },
+    "https://www.mainphase.de/events/onepiece-4322876a/": {
+        "title": "OP 18 NOV MI. MI. OP Store Tournament Event Phoboscards ·             Wuppertal · 36.6 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-4322876a/"
+    },
+    "https://www.mainphase.de/events/onepiece-fd0a7077/": {
+        "title": "OP 18 NOV MI.                 ·                 17:00 Uhr MI.                 ·                 17:00 Uhr OP Store Tournament Event Bürobedarf Dohmen GmbH ·             Frechen · 36.8 km OP Store Tournament 1 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-fd0a7077/"
+    },
+    "https://www.mainphase.de/events/onepiece-83394bf7/": {
+        "title": "OP 18 NOV MI.                 ·                 18:00 Uhr MI.                 ·                 18:00 Uhr OP Store Tournament Event Café Würfelbecher ·             Köln · 45.4 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-83394bf7/"
+    },
+    "https://www.mainphase.de/events/onepiece-532911c8/": {
+        "title": "OP 18 NOV MI.                 ·                 18:00 Uhr MI.                 ·                 18:00 Uhr Heroines Battle Vol.2 [EB-05] Animany - Dein Anime, Manga und TCG Paradies! ·             Bonn · 61.7 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-532911c8/"
+    },
+    "https://www.mainphase.de/events/onepiece-473179ea/": {
+        "title": "OP 18 NOV MI.                 ·                 18:00 Uhr MI.                 ·                 18:00 Uhr OP Store Tournament Event Kame Haus ·             Ludenscheid · 63.8 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-473179ea/"
+    },
+    "https://www.mainphase.de/events/onepiece-7dd1582a/": {
+        "title": "OP 18 NOV MI.                 ·                 18:00 Uhr MI.                 ·                 18:00 Uhr OP Store Tournament Event Karten-Lounge ·             Dortmund · 66.1 km OP Store Tournament 6 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-7dd1582a/"
+    },
+    "https://www.mainphase.de/events/onepiece-83d2618c/": {
+        "title": "OP 18 NOV MI.                 ·                 18:00 Uhr MI.                 ·                 18:00 Uhr OP Store Tournament Event White Rabbit - Community Game Store (Aachen) ·             Aachen · 67.5 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-83d2618c/"
+    },
+    "https://www.mainphase.de/events/onepiece-b59c30fe/": {
+        "title": "OP 18 NOV MI.                 ·                 19:00 Uhr MI.                 ·                 19:00 Uhr OP Store Tournament Event Jolly Roger Games ·             Bochum · 44.4 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-b59c30fe/"
+    },
+    "https://www.mainphase.de/events/onepiece-b2949f58/": {
+        "title": "OP 19 NOV DO.                 ·                 17:30 Uhr DO.                 ·                 17:30 Uhr OP Store Tournament Event Cardinvestor Düsseldorf Sammelkarten, Anime & Disney, Pokemon, Yugioh, One Piece ·             Düsseldorf · 5 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-b2949f58/"
+    },
+    "https://www.mainphase.de/events/onepiece-faf37597/": {
+        "title": "OP 19 NOV DO.                 ·                 19:00 Uhr DO.                 ·                 19:00 Uhr Heroines Battle Vol.2 [EB-05] MaBasso ·             Kempen · 25.2 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-faf37597/"
+    },
+    "https://www.mainphase.de/events/onepiece-3855f11d/": {
+        "title": "OP 19 NOV DO.                 ·                 17:00 Uhr DO.                 ·                 17:00 Uhr Pirates Party 2026 Vol.4 Junksplayground GmbH | TCG-Store ·             Moers · 25.8 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-3855f11d/"
+    },
+    "https://www.mainphase.de/events/onepiece-499749ca/": {
+        "title": "OP 19 NOV DO.                 ·                 18:30 Uhr DO.                 ·                 18:30 Uhr OP Store Tournament Event Phoenix Inn ·             Oberhausen · 27.7 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-499749ca/"
+    },
+    "https://www.mainphase.de/events/onepiece-6c77f425/": {
+        "title": "OP 19 NOV DO.                 ·                 19:00 Uhr DO.                 ·                 19:00 Uhr OP Store Tournament Event No Pixels ·             Wuppertal · 34.1 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-6c77f425/"
+    },
+    "https://www.mainphase.de/events/onepiece-86aa0cf7/": {
+        "title": "OP 19 NOV DO.                 ·                 17:00 Uhr DO.                 ·                 17:00 Uhr OP Store Tournament Event Hiveworld - Christopher Ruddat ·             Köln · 37.2 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-86aa0cf7/"
+    },
+    "https://www.mainphase.de/events/onepiece-72c4c7b8/": {
+        "title": "OP 19 NOV DO.                 ·                 17:45 Uhr DO.                 ·                 17:45 Uhr OP Store Tournament Event Animany - Dein Anime & Manga Fanshop ·             Hürth · 40.9 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-72c4c7b8/"
+    },
+    "https://www.mainphase.de/events/onepiece-7153e9ce/": {
+        "title": "OP 19 NOV DO.                 ·                 18:30 Uhr DO.                 ·                 18:30 Uhr OP Store Tournament Event Cards Central Gelsenkirchen ·             Gelsenkirchen · 43.8 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-7153e9ce/"
+    },
+    "https://www.mainphase.de/events/onepiece-d1dc3e21/": {
+        "title": "OP 19 NOV DO.                 ·                 18:00 Uhr DO.                 ·                 18:00 Uhr OP Store Tournament Event TCG-Siegburg ·             Siegburg · 59.1 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-d1dc3e21/"
+    },
+    "https://www.mainphase.de/events/onepiece-4b53e5d8/": {
+        "title": "OP 19 NOV DO.                 ·                 18:00 Uhr DO.                 ·                 18:00 Uhr Heroines Battle Vol.2 [EB-05] Games Time ·             Dortmund · 65.9 km OP Store Tournament 30 30",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-4b53e5d8/"
+    },
+    "https://www.mainphase.de/events/onepiece-b3aaa3bd/": {
+        "title": "OP 19 NOV DO.                 ·                 10:00 Uhr DO.                 ·                 10:00 Uhr OP Store Tournament Event Sternportal TCG ·             Bochum · 44.3 km OP Store Tournament 20 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-b3aaa3bd/"
+    },
+    "https://www.mainphase.de/events/onepiece-06f7b71b/": {
+        "title": "OP 20 NOV FR.                 ·                 17:30 Uhr FR.                 ·                 17:30 Uhr ONE PIECE CARD GAME OP-18 Release Event Cardinvestor Düsseldorf Sammelkarten, Anime & Disney, Pokemon, Yugioh, One Piece ·             Düsseldorf · 5 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-06f7b71b/"
+    },
+    "https://www.mainphase.de/events/onepiece-cd06ca8b/": {
+        "title": "OP 20 NOV FR.                 ·                 15:00 Uhr FR.                 ·                 15:00 Uhr Pirates Party 2026 Vol.4 Lama Cards Store ·             Düsseldorf · 17.8 km OP Store Tournament 10 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-cd06ca8b/"
+    },
+    "https://www.mainphase.de/events/onepiece-1221f8e6/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr ONE PIECE CARD GAME OP-18 Release Event CardInvestor Mönchengladbach Sammelkarten, Manga & Anime Pokemon, Yugioh, One Piece ·             Mönchengladbach · 19.8 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-1221f8e6/"
+    },
+    "https://www.mainphase.de/events/onepiece-f000215a/": {
+        "title": "OP 20 NOV FR.                 ·                 17:30 Uhr FR.                 ·                 17:30 Uhr ONE PIECE CARD GAME OP-18 Release Event TCG Shop Moers ·             Moers · 24.4 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-f000215a/"
+    },
+    "https://www.mainphase.de/events/onepiece-11af9cfd/": {
+        "title": "OP 20 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr OP Store Tournament Event Junksplayground GmbH | TCG-Store ·             Moers · 25.8 km OP Store Tournament 8 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-11af9cfd/"
+    },
+    "https://www.mainphase.de/events/onepiece-3f6f7afb/": {
+        "title": "OP 20 NOV FR.                 ·                 17:15 Uhr FR.                 ·                 17:15 Uhr ONE PIECE CARD GAME OP-18 Release Event Kartenstube ·             Pulheim · 27 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-3f6f7afb/"
+    },
+    "https://www.mainphase.de/events/onepiece-aa148699/": {
+        "title": "OP 20 NOV FR.                 ·                 18:30 Uhr FR.                 ·                 18:30 Uhr ONE PIECE CARD GAME OP-18 Release Event Phoenix Inn ·             Oberhausen · 27.7 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-aa148699/"
+    },
+    "https://www.mainphase.de/events/onepiece-1cbcfb73/": {
+        "title": "OP 20 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr ONE PIECE CARD GAME OP-18 Release Event JB Spielwaren ·             Oberhausen · 27.9 km OP Store Tournament 5 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-1cbcfb73/"
+    },
+    "https://www.mainphase.de/events/onepiece-c7baa629/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr OP Store Tournament Event JB Spielwaren ·             Oberhausen · 27.9 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-c7baa629/"
+    },
+    "https://www.mainphase.de/events/onepiece-e21dc616/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Olli-Baba ·             Essen · 31.6 km OP Store Tournament 30 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-e21dc616/"
+    },
+    "https://www.mainphase.de/events/onepiece-e138961f/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr ONE PIECE CARD GAME OP-18 Release Event White Rabbit - Community Game Store (Essen) ·             Essen · 32.3 km OP Store Tournament 40 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-e138961f/"
+    },
+    "https://www.mainphase.de/events/onepiece-c4ec1344/": {
+        "title": "OP 20 NOV FR.                 ·                 12:00 Uhr FR.                 ·                 12:00 Uhr OP Store Tournament Event Zuris-Shop ·             Wuppertal · 35.4 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-c4ec1344/"
+    },
+    "https://www.mainphase.de/events/onepiece-1dc85daa/": {
+        "title": "OP 20 NOV FR.                 ·                 15:00 Uhr FR.                 ·                 15:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Zuris-Shop ·             Wuppertal · 35.4 km OP Store Tournament 30 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-1dc85daa/"
+    },
+    "https://www.mainphase.de/events/onepiece-4fc35c45/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Ghostcards ·             Dinslaken · 36.6 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-4fc35c45/"
+    },
+    "https://www.mainphase.de/events/onepiece-81b9cbad/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Phoboscards ·             Wuppertal · 36.6 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-81b9cbad/"
+    },
+    "https://www.mainphase.de/events/onepiece-4b9f4794/": {
+        "title": "OP 20 NOV FR.                 ·                 15:30 Uhr FR.                 ·                 15:30 Uhr ONE PIECE CARD GAME OP-18 Release Event Hiveworld - Christopher Ruddat ·             Köln · 37.2 km OP Store Tournament 40 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-4b9f4794/"
+    },
+    "https://www.mainphase.de/events/onepiece-fa1695cb/": {
+        "title": "OP 20 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Epic Card Store – TCG Shop & Turniere Köln Dellbrück ·             Köln · 38 km OP Store Tournament 36 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-fa1695cb/"
+    },
+    "https://www.mainphase.de/events/onepiece-c34022ef/": {
+        "title": "OP 20 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Animany - Dein Anime & Manga Fanshop ·             Hürth · 40.9 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-c34022ef/"
+    },
+    "https://www.mainphase.de/events/onepiece-53b8cd29/": {
+        "title": "OP 20 NOV FR.                 ·                 16:00 Uhr FR.                 ·                 16:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Café Würfelbecher ·             Köln · 45.4 km OP Store Tournament 33 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-53b8cd29/"
+    },
+    "https://www.mainphase.de/events/onepiece-5c95b62a/": {
+        "title": "OP 20 NOV FR.                 ·                 16:00 Uhr FR.                 ·                 16:00 Uhr OP Store Tournament Event Frozen Cards ·             Witten · 48.6 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-5c95b62a/"
+    },
+    "https://www.mainphase.de/events/onepiece-2f75fcc1/": {
+        "title": "OP 20 NOV FR.                 ·                 16:30 Uhr FR.                 ·                 16:30 Uhr ONE PIECE CARD GAME OP-18 Release Event Card & Soul ·             Troisdorf · 56 km OP Store Tournament 40 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-2f75fcc1/"
+    },
+    "https://www.mainphase.de/events/onepiece-7eb8ef1c/": {
+        "title": "OP 20 NOV FR.                 ·                 17:30 Uhr FR.                 ·                 17:30 Uhr OP Store Tournament Event Card & Soul ·             Troisdorf · 56 km OP Store Tournament",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-7eb8ef1c/"
+    },
+    "https://www.mainphase.de/events/onepiece-0b0972a3/": {
+        "title": "OP 20 NOV FR. FR. OP Store Tournament Event Geeksheaven ·             Weilerswist · 58.9 km OP Store Tournament 12 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-0b0972a3/"
+    },
+    "https://www.mainphase.de/events/onepiece-b1291f0d/": {
+        "title": "OP 20 NOV FR. FR. OP Store Tournament Event Just for fun ·             Bonn · 61.7 km OP Store Tournament 7 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-b1291f0d/"
+    },
+    "https://www.mainphase.de/events/onepiece-818e3b5f/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Just for fun ·             Bonn · 61.7 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-818e3b5f/"
+    },
+    "https://www.mainphase.de/events/onepiece-29976ca3/": {
+        "title": "OP 20 NOV FR.                 ·                 17:30 Uhr FR.                 ·                 17:30 Uhr ONE PIECE CARD GAME OP-18 Release Event Geek Haven ·             Bonn · 61.9 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-29976ca3/"
+    },
+    "https://www.mainphase.de/events/onepiece-3fbdf9da/": {
+        "title": "OP 20 NOV FR.                 ·                 16:00 Uhr FR.                 ·                 16:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Kame Haus ·             Ludenscheid · 63.8 km OP Store Tournament 30 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-3fbdf9da/"
+    },
+    "https://www.mainphase.de/events/onepiece-2c7500c6/": {
+        "title": "OP 20 NOV FR.                 ·                 16:00 Uhr FR.                 ·                 16:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Fantasy Store ·             Euskirchen · 64.1 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-2c7500c6/"
+    },
+    "https://www.mainphase.de/events/onepiece-adc968f6/": {
+        "title": "OP 20 NOV FR.                 ·                 17:00 Uhr FR.                 ·                 17:00 Uhr ONE PIECE CARD GAME OP-18 Release Event CapsuleCards ·             Lüdenscheid · 64.4 km OP Store Tournament 30 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-adc968f6/"
+    },
+    "https://www.mainphase.de/events/onepiece-bc243aff/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr Pirates Party 2026 Vol.4 Karten-Lounge ·             Dortmund · 66.1 km OP Store Tournament 6 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-bc243aff/"
+    },
+    "https://www.mainphase.de/events/onepiece-6f5d59ef/": {
+        "title": "OP 20 NOV FR.                 ·                 11:00 Uhr FR.                 ·                 11:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Abedsantcgworld ·             Ennepetal · 44.2 km OP Store Tournament 35 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-6f5d59ef/"
+    },
+    "https://www.mainphase.de/events/onepiece-82c7d3fc/": {
+        "title": "OP 20 NOV FR.                 ·                 18:00 Uhr FR.                 ·                 18:00 Uhr ONE PIECE CARD GAME OP-18 Release Event Rice Cards ·             Bonn · 61.7 km OP Store Tournament 48 €",
+        "source": "Mainphase",
+        "url": "https://www.mainphase.de/events/onepiece-82c7d3fc/"
+    },
+    "https://onepiece.gg/st-37-st-38-release-event/": {
+        "title": "ST-37 & ST-38 Release Event",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/st-37-st-38-release-event/"
+    },
+    "https://onepiece.gg/one-piece-card-game-nike-collaboration-tournament/": {
+        "title": "ONE PIECE CARD GAME NIKE Collaboration Tournament",
+        "source": "OnePiece.gg",
+        "url": "https://onepiece.gg/one-piece-card-game-nike-collaboration-tournament/"
+    }
+}

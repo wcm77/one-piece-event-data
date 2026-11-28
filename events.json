@@ -930,10 +930,10 @@
         "url": "https://onepiece.gg/one-piece-card-game-nike-collaboration-tournament/"
     },
     "_monitor": {
-        "last_source_warning": "2026-11-28T01:49:35",
+        "last_source_warning": "2026-11-28T09:57:16",
         "source_errors": {
             "Mainphase": "403 Client Error: Forbidden for url: https://www.mainphase.de/events/?plz=40549&radius=100&game=one-piece&page=1"
         },
-        "last_scan_utc": "2026-11-28T01:49:35"
+        "last_scan_utc": "2026-11-28T09:57:16"
     }
 }
